@@ -1,0 +1,9 @@
+###TODO:
+
+Add to project liquibase:
+Add H2
+Several spring profiles like 'DEV', "PROD", 'TEST', 'DBTEST'
+Add static files
+frontend framework (simple) then actualize it to ng5
+
+add junit5
